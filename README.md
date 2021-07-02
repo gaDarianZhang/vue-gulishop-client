@@ -1,10 +1,10 @@
 # gulishop-cli
 
-## Project setup
+## Project asdfasdfs sdgsdfsf dsfa setup
 ```
 yarn install
 ```
-
+sdfsdsgd
 ### Compiles and hot-reloads for development
 ```
 yarn serve
@@ -28,5 +28,9 @@ asdfsdfgdsfgsfsdf
 yarn lint
 ```
 
+dasgsdfasdsdaf
+sadgsdfgasd
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+adsgsdgasdfsdg
+asdgdfg
