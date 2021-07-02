@@ -1,6 +1,6 @@
 # gulishop-cli
 
-## Project setup
+## Project dsfdfsadfasf setup
 ```
 yarn install
 ```
@@ -30,3 +30,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+sdfsfdfsdafsaf
